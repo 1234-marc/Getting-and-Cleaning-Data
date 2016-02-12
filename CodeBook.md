@@ -2,6 +2,11 @@ Course project "Getting and Cleaning Data" by Johns Hopkins University - Cousera
 Code Book and Data Dictionary
 ---------------------------------------------------------------------------------------------------------------------------
 
+The data for the project:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Full description is available at the site: 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The variables of the UCI HAR Dataset have been filtered remapped in accordance with the project instructions (means and standard deviations only).
 
